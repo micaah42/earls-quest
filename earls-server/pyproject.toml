@@ -1,0 +1,7 @@
+[project]
+name = "maptools"
+description = "micaah42's useful maptools"
+version = "0.1.0"
+authors = [
+    { name = "micaah42", email = "secret@xxx.cx" }
+]

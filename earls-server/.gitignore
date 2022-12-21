@@ -1,0 +1,6 @@
+# wheel build directory
+build/
+
+# python stuff
+**.pyc
+**.egg-info
