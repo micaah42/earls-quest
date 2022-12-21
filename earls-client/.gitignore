@@ -1,0 +1,13 @@
+# ide
+.vs/
+
+# build directories
+DerivedDataCache/
+Intermediate/
+Binaries/
+
+# just too large (unreal engine 'content' package) :(
+Saved/
+Config/
+Content/
+ThirdParty/
