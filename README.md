@@ -11,7 +11,10 @@ A real-world hiking* map** using unreal engine.
 * Terrain based coloring
 
 ## Up Next
-* ?
+* Refactoring: Remove "AChunk" in Favor of one ProceduralMesh Component living in ChunkWorld
+* Less Crashes
+* WASD movement
+* mush more ...
 
 --- 
 
